@@ -1,2 +1,4 @@
-# dev320-winter-2026
-Coursework and projects from DEV320 - Advanced Web Development from Winter 2026.
+# DEV320 - Advanced Web Developement
+---
+
+*Coursework and projects from **DEV320 - Advanced Web Development** Winter 2026.*
